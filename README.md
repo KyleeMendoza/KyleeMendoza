@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/kdmendoza00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdmendoza00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kyle dominic mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyle dominic mendoza" height="30" width="40" /></a>
-<a href="https://fb.com/kyle mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle mendoza" height="30" width="40" /></a>
+<a href="https://fb.com/shaclonely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyle mendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/kyleemndz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyleemndz" height="30" width="40" /></a>
 <a href="https://medium.com/@kylemendoza67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kylemendoza67" height="30" width="40" /></a>
 </p>
