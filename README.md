@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kylemendoza67@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/kyleemendoza](https://linkedin.com/kyleemendoza)
+- 📄 Know about my experiences [https://linkedin.com/in/kyleemendoza](https://linkedin.com/in/kyleemendoza)
 
 - ⚡ Fun fact **I play chess**
 
