@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Native Video Call App](https://github.com/KyleeMendoza/firebaseWebrtc)
 
-- 🌱 I’m currently learning **AWS, Azure, REST Api, Django**
+- 🌱 I’m currently learning **NodeJs, Postman, REST Api, NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyleeMendoza](https://github.com/KyleeMendoza)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js, React Native, Firebase**
 
-- 📫 How to reach me **kylemendoza67@gmail.com**
+- 📫 How to reach me **kyledominicmendoza@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/kyleemendoza](https://linkedin.com/in/kyleemendoza)
 
